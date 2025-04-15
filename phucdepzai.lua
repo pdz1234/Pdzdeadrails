@@ -2,8 +2,8 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
 
        local Window = MakeWindow({
          Hub = {
-         Title = "phucdepzai",
-         Animation = "phuccute"
+         Title = "pdz dead rails",
+         Animation = "pdz"
          },
         Key = {
         KeySystem = false,
